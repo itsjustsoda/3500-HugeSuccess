@@ -1,0 +1,69 @@
+00:00:00;$CLEAR
+00:00:02; Forms FORM-3500-10:
+00:00:04; Assignment Assessment Report:
+00:00:05;$LINE
+00:00:05;$START
+00:00:08; This was a triumph.
+00:00:11; I'm making a note here:
+00:00:13; HUGE SUCCESS.
+00:00:16; It's hard to overstate 
+00:00:19; my satisfaction.
+00:00:23; Computer Science
+00:00:27; We do what we must
+00:00:29; because we have to.
+00:00:32; For the good of our grade,
+00:00:35; Except in the end we feel dead.
+00:00:36;$LINE
+00:00:37; But there's no sense crying
+00:00:40; when you have to sleep late.
+00:00:42; You just keep on trying
+00:00:44; till bugs leave you irate.
+00:00:46; And the assignment gets done.
+00:00:48; Though debugging wasn't fun.
+00:00:50; In the end, you are still alive.
+00:00:52;$LINE
+00:00:54;$CLEAR
+00:00:55; Forms FORM-3133-7:
+00:00:56; Personnel Insult Addendum:
+00:00:57;$LINE
+00:00:58; Dear <<Student Name Here>>,
+00:00:59;$LINE
+00:01:00; I hope you're not angry.
+00:01:03; Well, I bet you're more relieved right now.
+00:01:07; It's all done, the bugs, you've won.
+00:01:11; Except that one.
+00:01:15; You probably should fix it,
+00:01:19; Oh why does async have to matter.
+00:01:24; As you tried, your mind was fried.
+00:01:28; The heck does a callback do?!
+00:01:30; Now, that's all behind us.
+00:01:32; I think you did just fine.
+00:01:34; Your code's out of beta.
+00:01:36; You're submitting on time.
+00:01:38; So be GLaD that's all past,
+00:01:40; Though you thought you wouldn't last.
+00:01:42; In the end, realize you're
+00:01:44; still alive.
+00:01:45;$CLEAR
+00:01:46; Forms FORM-3810-8:
+00:01:47; Personnel Insult Addendum Addendum:
+00:01:48;$LINE
+00:01:49; One last thing:
+00:01:51;$LINE
+00:01:52; Go ahead and drop me.
+00:01:55; Not like I wanted you anyway.
+00:02:00; Maybe you'll find another major
+00:02:04; to have you.
+00:02:07; Why not Parks'n'Rec
+00:02:11; THAT WAS A JOKE. HAHA. DON'T LEAVE.
+00:02:16; Anyway, your tears taste sweet.
+00:02:20; Sockets almost had you beat.
+00:02:22; Look at me still talking 
+00:02:24; when there's assignments to do.
+00:02:26; When I look out there,
+00:02:28; it makes me GLaD I'm not you.
+00:02:30; There more exams to be run
+00:02:32; and more studying to be done.
+00:02:34; For the students who are
+00:02:36; still alive.
+00:02:58;$CLEAR
